@@ -1,5 +1,6 @@
 # theme
 clear contrast 
+demo https://codepen.io/gnjo/pen/vwoZBx
 # usage
 script(src="https://gnjo.github.io/theme/theme.js?b=black&c=2cc")
 ```
